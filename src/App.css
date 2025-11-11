@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.headerStyle{
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid rgba(189, 185, 185, 0.2);
+  border-radius: 5px;
+ 
+}
+marquee{
+  font-size: 14px;
+}
