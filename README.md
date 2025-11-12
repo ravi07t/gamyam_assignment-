@@ -1,6 +1,8 @@
 # gamyam_assignment-
 Built a Complete CRUD Application with React and MUI
 
+Live - https://quiet-cendol-327cca.netlify.app/
+
 I developed a fully functional CRUD (Create, Read, Update, Delete) application using React.js, Material UI, and MockAPI for backend integration.
 
 Key Features
